@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# html-generation-activity
-=======
->>>>>>> 75643a88e3a3736ac143f63791ba134bc49cfd4f
 # Create-A-Fan-Page
 
 For this activity you are tasked to build a fan page for your favorite music artist. You can only use HTML, no CSS or JavaScript.
